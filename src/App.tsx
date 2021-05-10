@@ -1,6 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
 
+interface Test {
+  name: string | null
+}
+
+export class TestClass implements Test {
+  public name = 'gongmingzhi'
+}
+
 function App() {
   return (
     <div className="App">
