@@ -30,3 +30,14 @@ props或者state改变
 
 # immutable
 
+# router
+* react-router
+* react-router-dom
+* react-router-config
+
+# redux
+* redux
+* redux-thunk
+* redux-immutable
+* react-redux
+* immutable
